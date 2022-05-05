@@ -1,0 +1,6 @@
+web sitesi: top10
+header: Anasayfa, Hakkımızda, Kategoriler 
+kategoriler: film, kitap, mekan, dizi, müzik
+
+
+
